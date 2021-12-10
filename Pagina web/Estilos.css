@@ -1,0 +1,229 @@
+div#Logo{
+  margin-left: 100px;
+  <!-- Aqui colocamos al cheems con casco en un buen lugar -->
+
+}
+
+div#Menu1{
+  background:#A5FFE1;
+  width: 1350px;
+  height: 125px;;
+  margin-top: -150px;
+  <!-- Aqui es donde tendremos los accesos a otras pestañas y al chemms -->
+}
+
+div#Opciones{
+  margin-left: 350px;
+  <!-- En este parte estan contenidos los accesos a otras pestañas -->
+
+}
+
+div#Menu{
+  margin-left: 200px;
+  margin-top:  -60px;
+  <!-- Aqui acomodamos el acceso al menu -->
+}
+
+
+div#Galerias{
+  margin-left: 400px;
+  margin-top: -55px;
+  <!-- Aqui acomodamos el acceso a la galeria -->
+}
+
+div#Promos{
+  margin-left: 600px;
+  margin-top: -60px;
+  <!-- Aqui acomodamos el acceso a las Promociones -->
+}
+
+div#NombreDelRestaurante{
+  margin-left: 600px;
+  <!-- Aqui centramos el nombre de nuestro restaurante-->
+
+}
+
+div#Historia{
+  width: 300px;
+  height: 900px;
+  margin-left: 50px;
+  background-color: #F2F757;
+  <!-- Aqui establecemos el color y el lugar de donde tendremos el recuadro con la historia del restaurante-->
+}
+
+div#Imagenes{
+  width: 875px;
+  height: 900px;
+  background-color: #C3C7C5;
+  margin-left:375px;
+  margin-top: -900px;
+  <!-- Aqui acomodamos donde estaran las imagenes de la pagina de inicio-->
+}
+
+div#PieDePagina{
+  width: 750px;
+  margin-left: 400px;
+  margin-top: -200px;
+  <!-- Aqui establecemos el lugar donde ira nuestro pie de pagina-->
+}
+Div#CuerpoGaleria{
+  background-color: #C3C7C5;
+  <!-- Aqui ponemos un color claro de fondo para que no se vea vacia nuestra pagina-->
+}
+
+Div#ImagenesGaleria{
+  margin-left: 200px;
+  <!-- Aqui ajustamos la ubicacion de nuestra galeria-->
+}
+div#CuerpoPromociones{
+  background-color: #C3C7C5;
+  <!-- Aqui ponemos un color claro de fondo para que no se vea vacia nuestra pagina-->
+}
+
+Div#ImagenPromocion1{
+  margin-left: 200px;
+  <!-- Aqui acomodamos nuestra imagen de promocion para que encaje con el texto -->
+}
+
+Div#Promocion1{
+  margin-left: 600px;
+  margin-top: -200px;
+  <!-- Aqui acomodamos nuestro Texto de promocion para que encaje con La imagen -->
+}
+
+Div#Promocion2{
+  width: 600px;
+  margin-left: 200px;
+  margin-top: 300px;
+  <!-- Aqui acomodamos nuestro Texto de promocion para que encaje con La imagen -->
+}
+
+div#ImagenPromocion2{
+  margin-left: 850px;
+  margin-top: -250px;
+  <!-- Aqui acomodamos nuestra imagen de promocion para que encaje con el texto -->
+
+}
+
+div#ImagenPromocion3{
+  margin-left: 200px;
+  <!-- Aqui acomodamos nuestra imagen de promocion para que encaje con el texto -->
+}
+
+div#Promocion3{
+  margin-left: 600px;
+  width: 600px;
+  margin-top: -230px
+  <!-- Aqui acomodamos nuestro Texto de promocion para que encaje con La imagen -->
+}
+
+
+div#Promocion4{
+  margin-top: 190px;
+  margin-left: 200px;
+  width: 600px;
+  <!-- Aqui acomodamos nuestro Texto de promocion para que encaje con La imagen -->
+}
+
+div#ImagenPromocion4{
+  margin-left: 800px;
+  margin-top: -220px;
+  <!-- Aqui acomodamos nuestra imagen de promocion para que encaje con el texto -->
+}
+
+div#cuerpoMenu{
+  background-color: #C3C7C5;
+  <!-- Aqui ponemos un color claro de fondo para que no se vea vacia nuestra pagina-->
+}
+div#PlatillosPrincipales{
+  margin-left: 200px;
+  <!-- Aqui acomodamos el encabezado que indica nuestros platillos principales-->
+}
+Div#Platillo1{
+  margin-left: 200px;
+  width: 300px;
+  <!-- Acomodamos el platillo uno y le ponemos un limite para que la descripcion no se vea mal -->
+}
+
+Div#Platillo2{
+  margin-left: 550px;
+  margin-top: -435px;
+  width: 300px;
+  <!-- Acomodamos el platillo dos y le ponemos un limite para que la descripcion no se vea mal -->
+}
+Div#Platillo3{
+  margin-left: 900px;
+  margin-top: -435px;
+  width: 300px;
+  <!-- Acomodamos el platillo tres y le ponemos un limite para que la descripcion no se vea mal -->
+}
+div#Bebidas{
+  margin-left: 200px;
+  <!-- Aqui acomodamos el encabezado que indica las bebidas que ofrecemos-->
+}
+div#Bebida1{
+  margin-left: 200px;
+  width: 300px;
+  <!-- Acomodamos la bebida uno y le ponemos un limite para que la descripcion no se vea mal -->
+}
+
+div#Bebida2{
+  margin-left: 550px;
+  margin-top: -435px;
+  width: 300px;
+  <!-- Acomodamos la bebida dos y le ponemos un limite para que la descripcion no se vea mal -->
+}
+
+div#Bebida3{
+  margin-left: 900px;
+  margin-top: -410px;
+  width: 300px;
+  <!-- Acomodamos la bebida tres y le ponemos un limite para que la descripcion no se vea mal -->
+}
+
+Div#Postres{
+  margin-left: 200px;
+  margin-top: 50px;
+  <!-- Aqui acomodamos el encabezado que indica los postres que ofrecemos-->
+}
+
+div#Postre1{
+  margin-left: 200px;
+  width: 300px;
+  <!-- Acomodamos el postre uno y le ponemos un limite para que la descripcion no se vea mal -->
+}
+div#Postre2{
+  margin-left: 550px;
+  margin-top: -435px;
+  width: 300px;
+  <!-- Acomodamos el postre dos y le ponemos un limite para que la descripcion no se vea mal -->
+}
+div#Postre3{
+  margin-left: 900px;
+  margin-top: -410px;
+  width: 300px;
+  <!-- Acomodamos el postre tres y le ponemos un limite para que la descripcion no se vea mal -->
+}
+div#Paquetes{
+  margin-left: 200px;
+  margin-top: 50px;
+  <!-- Aqui acomodamos el encabezado que indica los ofertones que ofrecemos-->
+}
+
+div#Paquete1{
+  margin-left: 200px;
+  width: 300px;
+  <!-- Acomodamos el Paquete uno y le ponemos un limite para que la descripcion no se vea mal -->
+}
+div#Paquete2{
+  margin-left: 550px;
+  margin-top: -410px;
+  width: 300px;
+  <!-- Acomodamos el Paquete dos y le ponemos un limite para que la descripcion no se vea mal -->
+}
+div#Paquete3{
+  margin-left: 900px;
+  margin-top: -435px;
+  width: 300px;
+  <!-- Acomodamos el Paquete tres y le ponemos un limite para que la descripcion no se vea mal -->
+}
